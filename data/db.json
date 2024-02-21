@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "How to be a Net Ninja",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium porro suscipit minima soluta incidunt neque facilis, nemo sed delectus dolorum iusto quaerat fuga perferendis qui voluptas id expedita amet iste!",
+      "likes": 15
+    },
+    {
+      "id": "3",
+      "title": "New Vue course coming soon",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, ratione. Veritatis nulla animi consequatur deserunt fuga quae porro iste, natus pariatur, saepe enim nemo unde quasi facere hic, labore similique.Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, enim? Dolore tempora obcaecati, sapiente delectus architecto consectetur vitae omnis aspernatur eos reprehenderit illo officia soluta atque suscipit explicabo pariatur dolor. Accusantium porro suscipit minima soluta incidunt neque facilis, nemo sed delectus dolorum iusto quaerat fuga perferendis qui voluptas id expedita amet iste!",
+      "likes": 20
+    },
+    {
+      "id": "3",
+      "title": "New Vue course coming soon",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse, ratione. Veritatis nulla animi consequatur deserunt fuga quae porro iste, natus pariatur, saepe enim nemo unde quasi facere hic, labore similique.Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, enim? Dolore tempora obcaecati, sapiente delectus architecto consectetur vitae omnis aspernatur eos reprehenderit illo officia soluta atque suscipit explicabo pariatur dolor. Accusantium porro suscipit minima soluta incidunt neque facilis, nemo sed delectus dolorum iusto quaerat fuga perferendis qui voluptas id expedita amet iste!",
+      "likes": 20
+    },
+    {
+      "id": "44e1",
+      "title": "Abdulsalam ",
+      "body": "doskdmvjdhuveueeerereiwhdnivureef",
+      "likes": 0
+    }
+  ],
+  "polls": [
+    {
+      "id": "1",
+      "question": "Do you prefer Vue or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
